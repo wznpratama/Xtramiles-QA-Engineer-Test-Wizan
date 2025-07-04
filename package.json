@@ -1,0 +1,14 @@
+{
+  "name": "xtramiles-qa-engineer-test-wizan",
+  "version": "1.0.0",
+  "description": "Test Repository for Xtramiles Solutions QA Engineer Assignement",
+  "main": "index.js",
+  "scripts": {},
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@playwright/test": "^1.53.2",
+    "@types/node": "^24.0.10"
+  }
+}
